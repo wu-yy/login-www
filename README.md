@@ -49,16 +49,13 @@
 
 ## 技术交流
 
- - 欢迎加入 QQ 群 465363184 交流学习, 或者发邮件到 xchaoinfo@qq.com 进行交流
- - 视频教程已经上传到腾讯视频和优酷视频，可以通过搜索 `Python 模拟登录那些事儿` 找到
- - 视频教程同时也在微信公众号更新了，[点击扫一扫关注我的微信公众号：xchaoinfo](http://7xti71.com1.z0.glb.clouddn.com/xchaoinfo.jpg)
 
 
 ## 捐赠
 
- - [微信捐赠](http://7xti71.com1.z0.glb.clouddn.com/wechat_pay.png)
- - [支付宝捐赠](http://7xti71.com1.z0.glb.clouddn.com/alipay-xchaoinfo.jpg)
- - [捐赠记录](https://github.com/xchaoinfo/fuck-login/wiki/donation)
+ - [微信捐赠]()
+ - [支付宝捐赠]()
+ - [捐赠记录]()
 
 如果本项目对你有用，欢迎对本项目进行捐赠，捐赠时候请留下你的github ID，当然您也可以匿名捐赠。
 
